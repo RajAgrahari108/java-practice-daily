@@ -1,11 +1,17 @@
 public class CountDigitsInANumber {
     public static void main(String args[]){
-        int num   = 1234;
+        int n   = 1234;
         int count =0;
-        while (num >0) {
-            num= num /10;
+        if(n == 0){
+            count = 1;
+        }else{
+            while (n >0) {
+           
+            n = n /10;
             count ++;
         }
-        System.out.println(num);
+        }
+        
+        System.out.println(count);
     } 
 }
