@@ -1,13 +1,13 @@
 public class CountDigitsInANumber {
     public static void main(String args[]){
-        int n   = 1234;
+        int num   = 1234;
         int count =0;
-        if(n == 0){
+        if(num == 0){
             count = 1;
         }else{
-            while (n >0) {
+            while (num >0) {
            
-            n = n /10;
+            num= num /10;
             count ++;
         }
         }
