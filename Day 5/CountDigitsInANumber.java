@@ -1,6 +1,6 @@
 public class CountDigitsInANumber {
     public static void main(String args[]){
-        int num   = 1234;
+        int num   = 12345;
         int count =0;
         if(num == 0){
             count = 1;

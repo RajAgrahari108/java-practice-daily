@@ -1,54 +1,18 @@
-# 🚀 Java Practice Code (Daily for Beginners)
+## Getting Started
 
-Welcome to **Java Daily Practice Repository** 🎯  
-This repo is specially designed for **absolute beginners** who want to **build logic step by step in Java**.  
-Here, you will find **daily coding practice problems**, solutions, and notes to strengthen your Java fundamentals.
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
----
+## Folder Structure
 
-## 📅 Daily Practice Plan
+The workspace contains two folders by default, where:
 
-### ✅ Week 1: Basics + Flow Control
-- Day 1: Variables, Data Types, Operators  
-- Day 2: Input/Output using `Scanner`  
-- Day 3: `if-else` conditions  
-- Day 4: `switch` statement  
-- Day 5: Loops (`for`, `while`, `do-while`)  
-- Day 6: `break` & `continue`  
-- Day 7: Mini Project – *Number Guessing Game*  
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
 
-### ✅ Week 2: Arrays + Strings
-- Day 8–10: Arrays (1D & 2D)  
-- Day 11–12: Strings  
-- Day 13–14: Pattern Printing  
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-### ✅ Week 3: Functions + Recursion
-- Day 15–16: Functions & Overloading  
-- Day 17–18: Recursion Basics  
-- Day 19–20: Advanced Recursion (Backtracking)  
-- Day 21: Mini Project – *Tic Tac Toe*  
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-### ✅ Week 4: Searching + Sorting
-- Day 22: Linear & Binary Search  
-- Day 23–25: Sorting (Bubble, Selection, Merge, Quick)  
-- Day 26: Time Complexity Basics  
-- Day 27: Mini Project – *ATM Simulation*  
+## Dependency Management
 
-### ✅ Week 5: Data Structures
-- Day 29: Stack  
-- Day 30: Queue  
-- Day 31: HashMap & HashSet  
-- Day 32: Priority Queue  
-
-### ✅ Week 6: Competitive Programming Basics
-- Day 33: Two Pointer Technique  
-- Day 34: Sliding Window  
-- Day 35: Recursion + Memoization  
-- Day 36: Dynamic Programming Intro  
-- Day 37: Graph Basics (DFS & BFS)  
-- Day 38–40: Final Projects (Snake Game, Student Management, E-Commerce Cart)
-
----
-
-## 📂 Folder Structure
-
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
