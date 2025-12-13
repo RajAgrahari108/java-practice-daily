@@ -15,7 +15,7 @@ public class TriangleType {
         }else if(a==b || b==c || a==c){
             System.out.println("the triangle is Isosceles");
         }else{
-            System.out.println("the triangle is Scalene.");
+            ystem.out.println("the triangle is Scalene.");
         }
 
     }
