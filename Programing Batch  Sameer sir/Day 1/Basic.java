@@ -3,7 +3,7 @@ public class Basic {
         int num = 23;
         for (int i = 1; i <= num; i++) {
             if(i % 2 != 0 ){
-                system.out.println(i);
+                System.out.println(i);
             }
         }
     }
