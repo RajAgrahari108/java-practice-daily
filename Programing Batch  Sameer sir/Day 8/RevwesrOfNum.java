@@ -14,6 +14,6 @@ public class RevwesrOfNum {
             rev = rev*10 + digit;
             n=n/10;
         }
-        return rev;
+        aeturn rev;
     }
 }
