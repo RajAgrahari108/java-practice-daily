@@ -5,7 +5,7 @@ public class Ten {
             for(int j=1; j<=i;j++){
                 System.out.print((char)(j + 96) + " ");
             }
-            System.out.println();
+            system.out.println();
         }
     }
 }
